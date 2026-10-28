@@ -1,2 +1,2 @@
-# regensite-data
-regenP diretory for claude
+# site-data
+Encrypted data file. Not readable without a password.
